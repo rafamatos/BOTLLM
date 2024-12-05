@@ -5,4 +5,5 @@
 - **Bibliotecas de Machine Learning**: [Especifique bibliotecas, ex.: TensorFlow, PyTorch, scikit-learn].
 - **[Outras Ferramentas ou Serviços]**: Redis, LangChain, Hugging Face.
 
-
+Autor: Rafael Matos
+https://www.linkedin.com/in/rafaelmatos-a6986326b/
